@@ -4,6 +4,7 @@
   "description": "Reflect the good in you...",
   "main": "server.js",
   "scripts": {
+    "run": "node ./index.js",
     "start": "nodemon server.js"
   },
   "author": "",

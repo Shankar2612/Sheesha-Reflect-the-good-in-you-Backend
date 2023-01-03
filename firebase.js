@@ -1,5 +1,5 @@
-require("firebase/storage");
 require("dotenv").config();
+require("firebase/storage");
 
 const firebase = require("firebase");
 // Required for side-effects
